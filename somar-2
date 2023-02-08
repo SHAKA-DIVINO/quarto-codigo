@@ -1,0 +1,14 @@
+void main()
+{
+ somar(2,5);
+ somar(7,10);
+ somar(2000,4888);
+ somar(1928901,91084091);
+}
+
+void somar(int x,int y)
+{
+ int resultado = x + y;
+  
+ print(resultado);
+}
